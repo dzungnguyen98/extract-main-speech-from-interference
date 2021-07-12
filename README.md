@@ -1,6 +1,7 @@
 # Extract main speech from interferences speech
-This project is used to extract main speech (loudest voice in audio) from interference speech (Speech enhancement). 
-
+* This project is used to extract main speech (loudest voice in audio) from interference speech (Speech enhancement). 
+* Process multiple simultaneous speakers in audio.
+ 
 # Description:
 * Extract main speech from multiple-speaker.
 * Cancel interference speech from main speech.
